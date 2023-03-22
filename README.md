@@ -1,7 +1,5 @@
 <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=travierm&show_icons=true&theme=dark&count_private=true" />
-    <br /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=travierm&count_private=true&theme=dark" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=travierm&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
 <h2></h2>
